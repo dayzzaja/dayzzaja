@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://cdn.discordapp.com/emojis/1263060723098058813.webp?size=128&animated=true" alt="hina"></td>
-    <td align="center"><img src="https://github-readme-stats-liart-one-33.vercel.app/api?username=dayzzaja&show_icons=true&theme=tokyonight" style="width: 100%;" /></td>
+    <td align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dayzzaja&theme=tokyo-night&hide_border=true&area=true" style="width: 100%;" /></td>
     <td align="center"><img src="https://cdn.discordapp.com/emojis/1261961896278626376.webp?size=128&animated=true" alt="hoshino"></td>
   </tr>
   <tr>
