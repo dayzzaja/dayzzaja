@@ -27,7 +27,9 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: dayzzaja
-        run: python myprofile.py
+        run: |
+          mkdir -p cache
+          python myprofile.py
 
       - name: Commit and push updated SVGs
         run: |
