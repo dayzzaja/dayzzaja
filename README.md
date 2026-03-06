@@ -1,31 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&width=515&lines=Tahu+bakar%2C+Tempe+bakar+dan+sambal+bakar%F0%9F%A4%A4" alt="Typing SVG" /></a>
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.tiktok.com/@_dzzwkwk">
-        <img src="https://img.shields.io/badge/TikTok-@dayzzwkwkwk-000000?style=flat-square&logo=tiktok&logoColor=white" />
-      </a>
-      <a href="https://www.facebook.com/profile.php?id=61574557121991">
-        <img src="https://img.shields.io/badge/Facebook-Dayzz gege-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-      </a>
-      <a href="https://github.com/dayzzaja">
-        <img src="https://komarev.com/ghpvc/?username=dayzzaja&style=flat-square" />
-      </a>
-      <a href="https://github.com/dayzzaja?tab=stars">
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.discordapp.com/emojis/1263060723098058813.webp?size=128&animated=true" alt="hina"></td>
-    <td align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dayzzaja&theme=tokyo-night&hide_border=true&area=true" style="width: 100%;" /></td>
-    <td align="center"><img src="https://cdn.discordapp.com/emojis/1261961896278626376.webp?size=128&animated=true" alt="hoshino"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.discordapp.com/emojis/1295345795180003389.webp?size=128&animated=true" alt="doro_dance"></td>
-    <td align="center"><img src="https://nirzak-streak-stats.vercel.app?user=dayzzaja&theme=tokyonight&hide_border=true&locale=en" alt="Snake animation"></td>
-    <td align="center"><img src="https://cdn.discordapp.com/emojis/1328165235198267392.webp?size=128&animated=true" alt="doro"></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg"/>
+  <img src="dark_mode.svg" alt="dayzzaja's GitHub Stats" width="100%"/>
+</picture>
