@@ -110,7 +110,7 @@
   <!-- ABOUT -->
   <text x="24" y="118" font-family="'Fira Code',monospace" font-size="9" font-weight="600" letter-spacing="1.5" fill="#9198a1">── ABOUT ──────────────────────────────</text>
   <text x="24" y="138" font-family="'Fira Code',monospace" font-size="13" fill="#444c56">Age</text>
-  <text x="405" y="138" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#6d28d9" id="age_data" text-anchor="end">17 years, 10 months, 27 days</text>
+  <text x="405" y="138" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#6d28d9" id="age_data" text-anchor="end">17 years, 11 months, 0 days</text>
   <line x1="24" y1="150" x2="415" y2="150" stroke="#d8dee4" stroke-width="1"/>
 
   <!-- GITHUB -->
