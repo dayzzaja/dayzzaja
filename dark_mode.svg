@@ -85,13 +85,13 @@
   <!-- GITHUB -->
   <text x="24" y="165" font-family="'Fira Code',monospace" font-size="9" font-weight="600" letter-spacing="1.5" fill="#484f58">── GITHUB ─────────────────────────────</text>
   <text x="24" y="186" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9">Commits</text>
-  <text x="405" y="186" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="commit_data" text-anchor="end">458</text>
+  <text x="405" y="186" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="commit_data" text-anchor="end">461</text>
   <text x="24" y="207" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9">Stars Earned</text>
   <text x="405" y="207" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="star_data" text-anchor="end">0</text>
   <text x="24" y="228" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9">Repositories</text>
-  <text x="405" y="228" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="repo_data" text-anchor="end">2</text>
+  <text x="405" y="228" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="repo_data" text-anchor="end">1</text>
   <text x="24" y="249" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9">Contributed To</text>
-  <text x="405" y="249" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="contrib_data" text-anchor="end">460</text>
+  <text x="405" y="249" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="contrib_data" text-anchor="end">462</text>
   <text x="24" y="270" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9">Followers</text>
   <text x="405" y="270" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="follower_data" text-anchor="end">5</text>
   <line x1="24" y1="282" x2="415" y2="282" stroke="#21262d" stroke-width="1"/>
@@ -99,11 +99,11 @@
   <!-- LOC -->
   <text x="24" y="298" font-family="'Fira Code',monospace" font-size="9" font-weight="600" letter-spacing="1.5" fill="#484f58">── LINES OF CODE ON GITHUB ────────────</text>
   <text x="24" y="318" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9">Added</text>
-  <text x="100" y="318" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="loc_add">1,665</text>
+  <text x="100" y="318" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="loc_add">734</text>
   <text x="170" y="318" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9">Deleted</text>
-  <text x="256" y="318" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="loc_del">603</text>
+  <text x="256" y="318" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="loc_del">587</text>
   <text x="326" y="318" font-family="'Fira Code',monospace" font-size="13" fill="#c9d1d9">Net</text>
-  <text x="366" y="318" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="loc_data">1,062</text>
+  <text x="366" y="318" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#a78bfa" id="loc_data">147</text>
 
   <!-- ── CONTACT ── -->
   <text x="434" y="272" font-family="'Fira Code',monospace" font-size="9" font-weight="600" letter-spacing="1.5" fill="#484f58">── CONTACT ──────</text>
