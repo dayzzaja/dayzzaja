@@ -38,7 +38,15 @@ def get_age():
         diff.days,   'day'  +('s' if diff.days  !=1 else ''), cake)
 
 def get_repos():
-    # REST API — includes ALL private repos
+    # /user endpoint returns public_repos + total_private_repos — most reliable
+    r = rest('/user')
+    if r.status_code == 200:
+        d = r.json()
+        public  = d.get('public_repos', 0)
+        private = d.get('total_private_repos', 0)
+        print(f'    repos: {public} public + {private} private = {public+private} total')
+        return public + private
+    # fallback: paginate /user/repos
     total, page = 0, 1
     while True:
         r = rest('/user/repos', {'type':'owner','per_page':100,'page':page})
