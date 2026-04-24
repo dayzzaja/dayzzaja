@@ -81,11 +81,11 @@
 <!-- LOC -->
 <text x="24" y="298" font-family="Fira Code,monospace" font-size="9" font-weight="600" letter-spacing="1.5" fill="#484f58">── LINES OF CODE ON GITHUB ────────────</text>
 <text x="24"  y="318" font-family="Fira Code,monospace" font-size="13" fill="#c9d1d9">Added</text>
-<text x="100" y="318" font-family="Fira Code,monospace" font-size="13" font-weight="700" fill="#a78bfa">238,460</text>
+<text x="100" y="318" font-family="Fira Code,monospace" font-size="13" font-weight="700" fill="#a78bfa">237,140</text>
 <text x="170" y="318" font-family="Fira Code,monospace" font-size="13" fill="#c9d1d9">Deleted</text>
-<text x="256" y="318" font-family="Fira Code,monospace" font-size="13" font-weight="700" fill="#a78bfa">49,594</text>
+<text x="256" y="318" font-family="Fira Code,monospace" font-size="13" font-weight="700" fill="#a78bfa">48,959</text>
 <text x="326" y="318" font-family="Fira Code,monospace" font-size="13" fill="#c9d1d9">Net</text>
-<text x="366" y="318" font-family="Fira Code,monospace" font-size="13" font-weight="700" fill="#a78bfa">188,866</text>
+<text x="366" y="318" font-family="Fira Code,monospace" font-size="13" font-weight="700" fill="#a78bfa">188,181</text>
 
 <!-- Contact -->
 <text x="434" y="272" font-family="Fira Code,monospace" font-size="9" font-weight="600" letter-spacing="1.5" fill="#484f58">── CONTACT ──────</text>
